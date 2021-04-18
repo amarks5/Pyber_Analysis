@@ -11,3 +11,8 @@ Urban cities have roughly 87% of the total 68,709 drivers in rural, suburban and
 Conclusion: If you are in urban cities there will be more drivers available to you, therefore, making your ride cost lower. If you are in suburban cities you still will have a pretty decent number of drivers in the area it would cost a little more than urban areas. If you are in a rural area it will be more challenging for you to find drivers and when you do find a driver it will cost much more than urban areas.
 
 ## Summary
+My recommendations:
+1. Make more drivers available in rural areas in rural areas so we have support to our members that live in that area. (Don't take away any from urban areas because that is where the majority of the revenue comes from)
+2. Make a discount/promo incentive for rural users (their fares are more because they are traveling further distances than other areas)
+3. For urban riders, charge more per mile due to driving such short distance drives
+4. Assign drivers to areas based on where they live - there are many drivers that live in rural areas but chose to drive in urban areas because they know they will make more money in urban areas. Assigning drivers based on zip code could help make more drivers available in rural areas.
